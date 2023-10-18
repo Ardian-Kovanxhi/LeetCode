@@ -3,10 +3,10 @@
  * @return {boolean}
  */
 var containsDuplicate = function(nums) {
-    const logger = {};
+    const logger = new Set();
     for (let num of nums) {
-        if (logger[num]) return true;
-        logger[num] = true;
+        if (logger.has(num)) return true;
+        logger.add(num);
     };
     return false;
 };

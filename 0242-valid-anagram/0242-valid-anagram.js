@@ -4,27 +4,19 @@
  * @return {boolean}
  */
 var isAnagram = function(s, t) {
-    if (s.length !== t.length) return false
+    if (s.length !== t.length) return false;
     const sLogger = {};
     const tLogger = {};
+
     for (let i = 0; i < s.length; i++) {
-        const sChar = s[i];
-        const tChar = t[i];
-
-        if (sLogger[sChar]) {
-            sLogger[sChar]++;
-        }
-        else sLogger[sChar] = 1;
-
-        if (tLogger[tChar]) {
-            tLogger[tChar]++;
-        }
-        else tLogger[tChar] = 1;
-    }
- 
-    for (let char of Object.keys(sLogger)) {
-        if (sLogger[char] === tLogger[char]) continue
-        return false
-    }
-    return true
+        if (!sLogger[s[i]]) sLogger[s[i]] = 1;
+        else sLogger[s[i]]++;
+        if (!tLogger[t[i]]) tLogger[t[i]] = 1;
+        else tLogger[t[i]]++;
+    };
+    for (let key of Object.keys(sLogger)) {
+        if (!tLogger[key]) return false;
+        if (sLogger[key] !== tLogger[key]) return false;
+    };
+    return true;
 };

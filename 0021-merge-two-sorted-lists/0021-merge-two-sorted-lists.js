@@ -11,48 +11,18 @@
  * @return {ListNode}
  */
 var mergeTwoLists = function(list1, list2) {
-    if (!isNaN(list1)) return list2;
-    if (!isNaN(list2)) return list1
-    //isNaN of empty list = false
-    //isNaN of list with at least 1 element is true
-    let ansHead;
-    let ansBody;
-    let curr1 = list1;
-    let curr2 = list2;
-    while (curr1 || curr2) {
-        console.log(curr1)
-        console.log(curr2)
-        if (!isNaN(curr1)) {
-            ansBody.next = curr2
-            return ansHead;
-        }
-        if (!isNaN(curr2)) {
-            ansBody.next = curr1
-            return ansHead;
-        }
-
-        if (curr1.val <= curr2.val) {
-            if (!ansHead) {
-                ansHead = curr1;
-                ansBody = ansHead;
-            }
-            else {
-                ansBody.next = curr1;
-                ansBody = ansBody.next
-            }
-            curr1 = curr1.next
+    let sentinel = tail = new ListNode();
+    while (list1 && list2) {
+        if (list1.val <= list2.val) {
+            tail.next = list1;
+            list1 = list1.next;
         }
         else {
-            if (!ansHead) {
-                ansHead = curr2;
-                ansBody = ansHead
-            }
-            else {
-                ansBody.next = curr2;
-                ansBody = ansBody.next
-            }
-            curr2 = curr2.next
-        }
+            tail.next = list2;
+            list2 = list2.next;
+        };
+        tail = tail.next;
     }
-    return ansHead
-};
+    tail.next = list1 || list2
+    return sentinel.next
+}

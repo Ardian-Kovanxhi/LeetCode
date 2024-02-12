@@ -18,5 +18,6 @@ var reverseList = function(head) {
         prev = curr;
         curr = next
     }
+
     return prev
 };

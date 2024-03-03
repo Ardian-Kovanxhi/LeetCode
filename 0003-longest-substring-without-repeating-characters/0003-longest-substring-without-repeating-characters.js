@@ -3,31 +3,36 @@
  * @return {number}
  */
 var lengthOfLongestSubstring = function(s) {
-    if (s.length === 1) return 1
+    if (s.length === 0) return 0;
+
     let l = 0;
     let r = 1;
-    const strSet = new Set();
-    strSet.add(s[l]);
-    let longest = 0
-    while (r <= s.length) {
-        const char = s[r]
-        let checked = strSet.has(char);
 
-        if (strSet.size > longest) longest = strSet.size;
+    let logger = new Set();
+    logger.add(s[l]);
+
+    let longest = 1;
+
+    while (r <= s.length) {
+        if (logger.size > longest) longest = logger.size;
+
+        let char = s[r];
+        let checked = logger.has(s[r]);
 
         if (checked) {
             while (checked) {
-                strSet.delete(s[l]);
+                logger.delete(s[l]);
                 l++;
-                checked = strSet.has(char);
-            };
-            strSet.add(char)
-            r++
-        } else {
-            strSet.add(char);
+                checked = logger.has(s[r]);
+            }
+            logger.add(char);
             r++;
         }
-
+        else {
+            logger.add(char);
+            r++;
+        }
     }
-    return longest
+
+    return longest;
 };

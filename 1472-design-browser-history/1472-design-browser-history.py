@@ -1,26 +1,32 @@
+class ListNode:
+    def __init__(self, val, prevVal, nextVal):
+        self.val = val
+        self.prev = prevVal
+        self.next = nextVal
+
 class BrowserHistory:
 
     def __init__(self, homepage: str):
-        self.hisArr = [homepage]
-        self.currInd = -1
-
-    def visit(self, url: str) -> None:
-        if self.currInd < -1:
-            self.hisArr = self.hisArr[:self.currInd + 1]
-        self.hisArr.append(url)
-        self.currInd = -1
-
-    def back(self, steps: int) -> str:
-        negLen = len(self.hisArr) * -1
-        self.currInd -= steps
-        if self.currInd < negLen: self.currInd = negLen
-        return self.hisArr[self.currInd]
+        self.page = ListNode(homepage, None, None)
         
 
+    def visit(self, url: str) -> None:
+        temp = ListNode(url, self.page, None)
+        self.page.next = temp
+        self.page = temp
+        return
+
+    def back(self, steps: int) -> str:
+        for i in range(steps):
+            if self.page.prev == None: break
+            self.page = self.page.prev
+        return self.page.val
+
     def forward(self, steps: int) -> str:
-        self.currInd += steps
-        if self.currInd > -1: self.currInd = -1
-        return self.hisArr[self.currInd]
+        for i in range(steps):
+            if self.page.next == None: break
+            self.page = self.page.next
+        return self.page.val
         
 
 

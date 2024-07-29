@@ -1,12 +1,13 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        opPar = set(["(", "[", "{"])
+        Map = {")": "(", "]": "[", "}": "{"}
         stack = []
 
         for ch in s:
-            if ch in opPar: stack.append(ch)
-            elif len(stack) > 0 and (ord(stack[-1]) == ord(ch) - 1 or ord(stack[-1]) == ord(ch) - 2):
-                stack.pop()
-            else:
+            if ch not in Map: 
+                stack.append(ch)
+                continue
+            elif not stack or stack[-1] != Map[ch]: 
                 return False
-        return len(stack) == 0
+            else: stack.pop()
+        return not stack

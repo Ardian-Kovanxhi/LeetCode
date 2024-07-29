@@ -4,6 +4,7 @@ class Solution:
 
         lowest = prices[0]
         for price in prices:
-            lowest = min(lowest, price)
+            if price < lowest:
+                lowest = price
             res = max(res, price - lowest)
         return res

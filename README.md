@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0125-valid-palindrome) |
 ## Divide and Conquer
@@ -102,4 +103,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0074-search-a-2d-matrix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

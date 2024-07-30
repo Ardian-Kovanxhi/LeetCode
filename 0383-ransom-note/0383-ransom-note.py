@@ -2,19 +2,10 @@ class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
         logger = {}
 
-        i = 0
-
-        while i < len(ransomNote) or i < len(magazine):
-            if i < len(ransomNote):
-                ranCh = ransomNote[i]
-                logger[ranCh] = logger.get(ranCh, 0) - 1
-
-            if i < len(magazine):
-                magCh = magazine[i]
-                logger[magCh] = logger.get(magCh, 0) + 1
-
-            i += 1
-        
-        for val in logger.values():
-            if val < 0: return False
+        for c in magazine:
+            logger[c] = logger.get(c, 0) + 1
+        for c in ransomNote:
+            if c not in logger: return False
+            elif logger[c] == 1: del logger[c]
+            else: logger[c] -= 1
         return True

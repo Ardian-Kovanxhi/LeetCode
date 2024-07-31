@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0383-ransom-note) |
 ## Divide and Conquer
@@ -160,4 +162,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0278-first-bad-version) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->

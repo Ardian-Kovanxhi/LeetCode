@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0682-baseball-game](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0682-baseball-game](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0739-daily-temperatures) |
 ## Dynamic Programming
 |  |
@@ -183,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0067-add-binary) |
+| [0682-baseball-game](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |

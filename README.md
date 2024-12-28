@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0383-ransom-note) |
+| [0782-jewels-and-stones](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0782-jewels-and-stones) |
 ## Linked List
 |  |
 | ------- |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0383-ransom-note) |
+| [0782-jewels-and-stones](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0782-jewels-and-stones) |
 ## Divide and Conquer
 |  |
 | ------- |

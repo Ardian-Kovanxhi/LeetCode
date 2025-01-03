@@ -8,21 +8,21 @@ class Solution:
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
         if not root: return []
         ans = []
-        stack = [root]
+        queue = [root]
         temp = []
         i = 0
 
-        while stack:
+        while queue:
             print(i)
-            if i == len(stack):
-                ans.append(stack)
-                stack = temp
+            if i == len(queue):
+                ans.append(queue)
+                queue = temp
                 temp = []
                 i = 0
             else:
-                curr = stack[i]
+                curr = queue[i]
                 if curr.left: temp.append(curr.left)
                 if curr.right: temp.append(curr.right)
-                stack[i] = curr.val
+                queue[i] = curr.val
                 i += 1
         return ans

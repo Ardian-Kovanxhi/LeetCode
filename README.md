@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [2358-number-of-ways-to-split-array](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [2358-number-of-ways-to-split-array](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 ## Union Find
 |  |
 | ------- |

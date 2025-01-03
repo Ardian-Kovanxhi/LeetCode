@@ -13,7 +13,6 @@ class Solution:
         i = 0
 
         while queue:
-            print(i)
             if i == len(queue):
                 ans.append(queue)
                 queue = temp

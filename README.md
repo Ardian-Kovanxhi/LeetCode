@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0952-word-subsets](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0952-word-subsets) |
+| [1502-construct-k-palindrome-strings](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 ## Linked List
 |  |
 | ------- |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0952-word-subsets](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0952-word-subsets) |
+| [1502-construct-k-palindrome-strings](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Divide and Conquer
 |  |
@@ -98,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0383-ransom-note) |
+| [1502-construct-k-palindrome-strings](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 ## Quickselect
 |  |
 | ------- |
@@ -134,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0011-container-with-most-water) |
+| [1502-construct-k-palindrome-strings](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 ## Matrix
 |  |
 | ------- |

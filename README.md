@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0782-jewels-and-stones](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0952-word-subsets](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Linked List
 |  |
 | ------- |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -104,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0383-ransom-note) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Quickselect
 |  |
 | ------- |

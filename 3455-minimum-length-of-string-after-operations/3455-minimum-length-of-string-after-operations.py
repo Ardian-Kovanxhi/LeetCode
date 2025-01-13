@@ -1,11 +1,14 @@
 class Solution:
     def minimumLength(self, s: str) -> int:
         counter = Counter(s)
-        diff = 0
-        for count in counter.values():
-            curr = count
-            while curr > 2:
-                curr -= 2
-                diff += 2
+        res = 0
 
-        return len(s) - diff
+        for count in counter.values():
+            if count < 3:
+                res += count
+            elif count % 2 == 0:
+                res += 2
+            else:
+                res += 1
+
+        return res

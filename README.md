@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-koko-eating-bananas](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0952-word-subsets) |
 | [2358-number-of-ways-to-split-array](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Hash Table
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0067-add-binary](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0067-add-binary) |
 | [2509-minimize-xor](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/2509-minimize-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Simulation
 |  |
@@ -234,4 +236,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->

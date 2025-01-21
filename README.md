@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0952-word-subsets) |
+| [2145-grid-game](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2145-grid-game](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Union Find
@@ -159,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [2145-grid-game](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Stack
 |  |

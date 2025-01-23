@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0952-word-subsets) |
+| [1396-count-servers-that-communicate](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0383-ransom-note) |
+| [1396-count-servers-that-communicate](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Quickselect
@@ -132,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [1396-count-servers-that-communicate](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/1396-count-servers-that-communicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -162,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [1396-count-servers-that-communicate](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -191,12 +195,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1396-count-servers-that-communicate](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/1396-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [1396-count-servers-that-communicate](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/1876-map-of-highest-peak) |
 ## Binary Tree
 |  |

@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2685-first-completely-painted-row-or-column](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## String
 |  |
 | ------- |
@@ -135,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [1396-count-servers-that-communicate](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Two Pointers
 |  |
 | ------- |

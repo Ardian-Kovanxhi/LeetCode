@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Recursion
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0125-valid-palindrome) |
@@ -239,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0682-baseball-game) |
 ## Monotonic Stack

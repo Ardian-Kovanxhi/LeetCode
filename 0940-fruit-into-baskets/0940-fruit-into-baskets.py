@@ -1,8 +1,15 @@
 class Solution:
     def totalFruit(self, fruits: List[int]) -> int:
-        n = len(fruits)
-        l, r = 0, 0
-        baskets = {}
+        basket = {}
+        l = 0
 
-        for r in range(n):
-            continue
+        for right, fruit in enumerate(fruits):
+            basket[fruit] = basket.get(fruit, 0) + 1
+
+            if len(basket) > 2:
+                basket[fruits[l]] -= 1
+                if basket[fruits[l]] == 0:
+                    del basket[fruits[l]]
+                l += 1
+
+        return right - l + 1

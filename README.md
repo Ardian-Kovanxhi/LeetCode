@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-koko-eating-bananas](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0952-word-subsets) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/2145-grid-game) |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0278-first-bad-version](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Greedy
 |  |
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/2145-grid-game) |

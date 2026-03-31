@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Divide and Conquer
 |  |

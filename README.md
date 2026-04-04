@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0952-word-subsets](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -262,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/0682-baseball-game) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ardian-Kovanxhi/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Monotonic Stack
 |  |
